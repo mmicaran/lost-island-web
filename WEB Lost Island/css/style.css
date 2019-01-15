@@ -24,6 +24,18 @@ body {
     margin: 120px auto 0 auto;
 }
 
+a{
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    color: #fff;
+    font-family: "Roboto Momo", monospace;
+}
+a:hovor{
+    text-decoration: none;
+    font-family: "Roboto Momo", monospace;
+}
+
 h1 {
     font-size: 30px;
     font-weight: 700;
